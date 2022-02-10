@@ -24,9 +24,9 @@ City Diary is a mobile app that allows you to quickly capture audio, and save th
   As New Yorkers, we were inspired to help tell this city’s story through sound, highlighting the rich cultural diversity that changes with each step you take.  With City Diary, you can capture those precious fleeting moments like impromptu jazz in the park, buskers on the train platform, or the sound of your dear friend’s laughter after you land a great joke. 
 
 Watch our YouTube demo video:
-
+<p align="center">
 <a href="https://youtu.be/GZ4RHsHUgW8"><img width="400" height="200" alt="City-Diary-Thumbnail" src="https://user-images.githubusercontent.com/75354391/153485037-a4b1064a-221d-4c34-bf32-2256c9d48c31.png"></a>
-
+</p>
 
 ## Try out the latest version of City Diary
 
