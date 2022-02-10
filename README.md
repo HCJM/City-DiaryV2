@@ -1,6 +1,5 @@
 <p align="center">
-  <img width="375px" src="assets/cityDiary_building.png" alt="City Diary logo">
-  <img width="375px" src="assets/appCollageForReadme.png" alt="City Diary App Collage">
+  <a href="https://youtu.be/GZ4RHsHUgW8"><img width="400" height="200" alt="City-Diary-Thumbnail" src="https://user-images.githubusercontent.com/75354391/152089970-860934fe-7acb-4159-9461-27d9cfb87e75.png"></a>
 </p>
 <h3 align="center">
 City Diary is a mobile app that allows you to interact with and explore<br>a user generated sound map.
